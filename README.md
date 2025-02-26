@@ -1,1 +1,2 @@
 # DictionaryApp
+My Dictionary App
